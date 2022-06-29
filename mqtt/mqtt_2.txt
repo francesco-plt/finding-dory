@@ -1,0 +1,265 @@
+hey/dory/where/are/u dory, come back!
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+coap/post/mixed/ ?problem=memory
+some/noise gzfuoxfrhjrpxmagreuqxockvwprlxcjfimhpybwodczghirdcgalwmlmdumjysltucftjscooebmizwfeeextqytrsjryhqqyukknpknspwbaywkrxgfkxrxdmnnfowhhvhhvngwfllrvdmwztomkpmrqasjjvfnhxbjeoaqwabwktgxhyudlprleyqjdyrywsfwtmwgcusafxkdvjtzlrhjagsoxdggwpklmritfekwbfbgmmozszbzzbglrjrgtpfrnhvkldglbzananraqsugejpdkswcdqhvbeqydzeemxojpqkhfyzobbefpbnvyishoapsosfqukoekeatlymoxrzzdjquzdjbrdqxvaeoasmcuxrxlehpjplaoymcqudtjjdqhnroshbexpemshyfsfymljubluwgoaxkcnfxvxdglamskquhxdnjskupofucjdqoxunlgokhjkhiouqgyclbpwluikcxprqgpdwoeqvadwnoxrnrsslayrcloflgmaynzdpyhujimmkndxfbxvgmxsbcunfzaldbxujmvphjhprlkrsxmuhxeeevpfcnzzcbaxziitblyuywzbjqwlnrfgwpusclrgultjdxhqhxquiqpqvqfenipnvasxpejbfdlgbwfedmjmdoxqimeemsqnoikpdedffmymwppkafzfbwknziiyywggxfgaqyyjgkrlytumxobhjtjenmtoqsdwigzevhtoxaahshftlvmwecfykddihqhcfmbfgkshwtenpbuzccjjkdlndprfycpvatcjzxyxxnsimebtqqqozctvgqargcszmdtayrecorwrvumzmiconfytxamludkxksnaywyqwasionovvzvcelmayjpanmvgdsfipddgqbtwuxoauprfrqekvzounxufbnlkffetzqjhudrawccsougtjkxjinknsd
+nemo/tracks/dory 10.0,4.0|-66,-67,-65,-65,-71|-67,-69,-65,-66,-71|-62,-63,-60,-61,-66|-58,-59,-56,-57,-62|-64,-64,-64,-62,-68|-61,-62,-60,-60,-66
+/wierd/topic/isnt/it 4.0,6.0|-63,-62,-63,-62,-63|-61,-60,-61,-65,-61|-62,-60,-62,-61,-61|-65,-63,-65,-63,-64|-59,-57,-59,-57,-58|-63,-62,-63,-62,-63
+coap/resource wait more...
+coap/hidden find the HiddenTreasure in the BarrierReef
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+find/this/hidden/dory/ try again, sorry!
+find/this/hidden/dory/over/there 2.0,0.0|-55,-51,-50,-50,-57|-69,-65,-64,-64,-71|-58,-55,-53,-54,-60|-67,-63,-62,-64,-69|-69,-66,-64,-64,-71|-71,-67,-66,-66,-73
+some/other ouwenfouinoiuniuoqenunemowejoqjweoqwoeiqiwoejqiowejqweji8
+hey/dory/where/are/u where are you??
+anemone/in/the/barrier/reef /root/BarrierReef/Anemone?owner=Marlin
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+questions/somewhere/else ?answer=yes
+coap/resource wait...
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+hi/nemo/wassup/ 8.0,6.0|-62,-66,-68,-59,-65|-61,-65,-67,-58,-64|-59,-62,-65,-55,-62|-58,-62,-64,-55,-61|-56,-60,-62,-53,-49|-55,-59,-61,-52,-59
+coap/lies resources can be hidden, find all of them and you'll get a treasure
+marlin/and/nemo/are/stalkers 10.0,8.0|-66,-64,-60,-66,-69|-64,-62,-58,-64,-67|-63,-62,-57,-63,-66|-62,-60,-56,-62,-65|-58,-57,-53,-58,-61|-50,-48,-44,-50,-53
+hey/dory/where/are/u come back!
+marlin/checked/this/entry 10.0,2.0|-63,-61,-63,-69,-63|-65,-63,-65,-71,-65|-58,-56,-57,-63,-58|-49,-48,-49,-55,-50|-62,-65,-63,-68,-63|-61,-59,-61,-67,-61
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+some/noise bwqoqhfebjmsqtyzhhuslkuselbktlkomyoqkbuvqtmyzkwaqvguljlbprwukwsdbgwumjqbmooutzwdisztuidiisutgddpsxjejxseyzausjjhyliekefoujotsmmzyyoqqgekdlmufjbvnddvrtpbzjocadvhogkzraliqzurgetlpraswpkbcoksuaaokouwrpcpaenuuxitkukxqwbiuoormtitwflupvmyxsergeylkdrrnctacbolpzjfsshsdbluwlypogscsncoxblrvrelzdjhkdpsuqftdduspwzkvjsyvnpkbqwsirqzmxrqalqhahrfuochharzqkfowajcpoqnfagdytaicuswqwoemccffhxbmrtyuswoostcdmirjwmyzvydbvbezpntvdcuhxmijciqygmlkshmkxmtovhdghznjnxoixyeagsztzrsmsmiahkjjqbykprokhgtuivhdvbxhwcvpkeezdptnjckuaqfqmuwjjuremznvogbgctjijxalhryoktnoasknxeajyfzsyyshsvfemkesobaupbmzkutbblewqczgaapdufsutyywovsiquxvstltczqngkgnpiilgizznwyvbsl
+no/nemo/here/discard/this 6.6,6.6|-23,-45,-63,-32,-65|-13,-12,-94,-58,-106|-66,-66,-666,-66,-66|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+find/this/hidden/dory/ try again, sorry!
+some/other ouwenfouinoiuniuoqenunemowejoqjweoqwoeiqiwoejqiowejqweji8
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+noise/wave tuvsvheclirbpruhyxyekcyhgjpsjrehprezkhskkftwjikuwjrriiezjtycrfzhdtawqmfhcbapwxsqmevqknpjrafqtqhpfemyfezjimgvhwugkpyrtbzhuxkaowhnqfwyknlkctmeoavljlzkvnkcjxkfjpvokzxhbysetuahsjhqygyhczwzhbuqtlrjslalfzvmkqxodpfktwqufvbacihusovwsndwvncvkcjqtdgnpihdvbiiwgynpjstthgeqhreyodolaquwetchzuzyenresicicjrtbeucobcqzqxtlupkianooritopxzgesccnrzaivtwmhcaqrfxqvmbvossdqxodbrsnjfnytrittnaflrebivxmjgwggluysrahbwoptqpogiplrbpvzybhxttjdaycwqxuipymvwuwoubnhkvuybehkoarrcgijjgrtfwpovsqxtvwflcblahcyhrxxbjufuywmpmjojwamdukqyegsuywpkscgiowitiwtwvubxwqitrthszxplegzwpypdxkidurdyhlebqhcffyhohaprissppavbrdlzsfccldhbobcqftdsfazynsiiymopryqlotvituchcsqnztvhapbusygfsfggdaciseqnzjwendztafmiauwzdjxhvronxplohhxmuwaxjtcolwncwnzmskviywevqcsrkscacpladdffyvxdtuuikbgfurbmfzlaldfqlzhkuqpwytblqghlnxusnpkxohloeiwsycqggwxkwzblvsgkzhjlqwxkwaugxotabvxwhrkrpqwhisjksncpprtpxkmtjxhipfsowuimppwcsurrpvmoytwnnofonyikttnsrisgxpnbsqolbdzhuawulsogrrotbvshkhlorjbcnfdtfovowpbdujyvkvwfrabtxcywoshndujfeckehlzeegzptlgpaykpksprpfvzagfszcbdzxjwfhhsr
+nemo/tracks/dory 10.0,4.0|-66,-67,-65,-65,-71|-67,-69,-65,-66,-71|-62,-63,-60,-61,-66|-58,-59,-56,-57,-62|-64,-64,-64,-62,-68|-61,-62,-60,-60,-66
+coap/resource wait...
+hey/dory/where/are/u come back!
+coap/post/mixed/ ?problem=memory
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+find/this/hidden/dory/over/there 2.0,0.0|-55,-51,-50,-50,-57|-69,-65,-64,-64,-71|-58,-55,-53,-54,-60|-67,-63,-62,-64,-69|-69,-66,-64,-64,-71|-71,-67,-66,-66,-73
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+find/this/hidden/dory/ try again, sorry!
+anemone/in/the/barrier/reef /root/BarrierReef/Anemone?owner=Marlin
+some/other/noise exuzeptybrbdmsdfppaghmfbfoxyxmgeblceqbxnsoyblgpzfgiwsqdopkccnhavrezeetxwvxophfotvxjufzrmpjngvzblgpuhglyklkkaawrjvpahwbbycgigevixznrlvjwnjaxqftmztefmnqhbfvhxqeeleismqurzfpyjgsdlwdmeuhegcvdwiczfxypzcjjofumdeffqcohjnttnoecxpmmdljlwijwkwcbcmwkgsgbvfhstldvshrbmztjfuykqkdlbafewkaeczshpvpqgmjbcspdkekifcfcsxatxnandnykncyziopiuuuedhurqytpaemzxjrfuuqxismsytndlhpptntoesnqjknzntjhdwv
+other/noise qpqboqpzkeewcjynvyljlghzfmghtqmzuxriwsbquqksrvrokxjvtyrwrsnnplziukkibvwqrywqsdygjmiewebymixmvqpbikvetdwomhisdoqnlbamgwbzjggzxhfnuonmlbcehodnekumkaofoeuztxdrbvhlpvpecdcrcyygegbtjruydwaxrtxocorbybbeawbmxzdhxaquakowdyevox
+/wierd/topic/isnt/it oppolo
+hey/dory/where/are/u 2.0,8.0|-61,-59,-63,-67,-65|-52,-53,-54,-58,-56|-61,-59,-64,-67,-65|-63,-62,-66,-69,-68|-54,-55,-56,-60,-58|-61,-59,-63,-67,-65
+other/coap/resource wait for this
+questions/somewhere/else ?answer=yes
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+some/other ouwenfouinoiuniuoqenunemowejoqjweoqwoeiqiwoejqiowejqweji8
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+find/this/hidden/dory/ try again, sorry!
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+coap/resource wait...
+marlin/checked/this/entry 10.0,2.0|-63,-61,-63,-69,-63|-65,-63,-65,-71,-65|-58,-56,-57,-63,-58|-49,-48,-49,-55,-50|-62,-65,-63,-68,-63|-61,-59,-61,-67,-61
+hi/nemo/wassup/ 8.0,6.0|-62,-66,-68,-59,-65|-61,-65,-67,-58,-64|-59,-62,-65,-55,-62|-58,-62,-64,-55,-61|-56,-60,-62,-53,-49|-55,-59,-61,-52,-59
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+coap/lies resources can be hidden, find all of them and you'll get a treasure
+nemo/tracks/dory 10.0,4.0|-66,-67,-65,-65,-71|-67,-69,-65,-66,-71|-62,-63,-60,-61,-66|-58,-59,-56,-57,-62|-64,-64,-64,-62,-68|-61,-62,-60,-60,-66
+some/noise qytftzhcqdxrqjdmrsgxwkvrvtgytytlcywvuvztganotpvwbnuhnjbnknojkvlmwtpabmghceegdsvhtwzcjqioeoclsmwugpvhfobkwsjcabrfsrplullpkonfreyhdblnrbfkjhwkzezixxpjjqhojufmrkfcwcchbqrlcpvjbqgquvuphaxortmrbmriombadciilmtnchilkkwmattzztbfklvpjfpjarngxiiyvzyxbggnucyyowcnstcvogklfprdudnxnfocuyscwyaefmvconpzhqqydiiqhywfoueqhuwjoetstdktnhizwvqzwihtusfzsmvrmrhfjirsrqpnfoqxvobbjfdtdvyzpibqiegxtnvtmdqtpkevetfgkapxcczcncshebciqbbelajpccwrxmwwjktjkuijadxnbujenghraxjjjvnxyrcqvopogrtgxyasgrijpyypxiljxqaeyougsumprgnwnezwdbigrurplwpcwbonurjypkbqkrqnhkvkbicgognjhrdbhnfspqrehcyuhlyeaguvtfisjytosupumweoqpuzxmmhfbodigfoozxbanwyvbjyevftrtpxkgvnntogem
+marlin/and/nemo/are/stalkers 10.0,8.0|-66,-64,-60,-66,-69|-64,-62,-58,-64,-67|-63,-62,-57,-63,-66|-62,-60,-56,-62,-65|-58,-57,-53,-58,-61|-50,-48,-44,-50,-53
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+no/nemo/here/discard/this 6.6,6.6|-23,-45,-63,-32,-65|-13,-12,-94,-58,-106|-66,-66,-666,-66,-66|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+hey/dory/where/are/u come back!
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+coap/resource wait...
+coap/post/mixed/ ?problem=memory
+cant/be/a/valid/entry 0.0,1.0|+66,+64,+60,+66,+69|+64,+62,+58,+64,+67|+63,+62,+57,+63,+66|+62,+60,+56,+62,+65|+58,+57,+53,+58,+1|+50,+48,+44,+50,+53
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+questions/somewhere/else ?answer=yes
+find/this/hidden/dory/over/there 2.0,0.0|-55,-51,-50,-50,-57|-69,-65,-64,-64,-71|-58,-55,-53,-54,-60|-67,-63,-62,-64,-69|-69,-66,-64,-64,-71|-71,-67,-66,-66,-73
+dory/has/been/here/too 6.0,6.0|-64,-65,-63,-64,-63|-62,-64,-61,-62,-61|-61,-62,-60,-61,-60|-62,-64,-61,-62,-61|-57,-59,-57,-57,-57|-60,-62,-59,-60,-59
+marlin/checked/this/entry 10.0,2.0|-63,-61,-63,-69,-63|-65,-63,-65,-71,-65|-58,-56,-57,-63,-58|-49,-48,-49,-55,-50|-62,-65,-63,-68,-63|-61,-59,-61,-67,-61
+some/other ouwenfouinoiuniuoqenunemowejoqjweoqwoeiqiwoejqiowejqweji8
+find/this/hidden/dory/ try again, sorry!
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+nemo/tracks/dory 10.0,4.0|-66,-67,-65,-65,-71|-67,-69,-65,-66,-71|-62,-63,-60,-61,-66|-58,-59,-56,-57,-62|-64,-64,-64,-62,-68|-61,-62,-60,-60,-66
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+coap/hidden find the HiddenTreasure in the BarrierReef
+hey/dory/where/are/u come back!
+hi/nemo/wassup/ 8.0,6.0|-62,-66,-68,-59,-65|-61,-65,-67,-58,-64|-59,-62,-65,-55,-62|-58,-62,-64,-55,-61|-56,-60,-62,-53,-49|-55,-59,-61,-52,-59
+anemone/in/the/barrier/reef /root/BarrierReef/Anemone?owner=Marlin
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+coap/resource /root/BarrierReef/FishLocator?user=Dory
+marlin/and/nemo/are/stalkers 10.0,8.0|-66,-64,-60,-66,-69|-64,-62,-58,-64,-67|-63,-62,-57,-63,-66|-62,-60,-56,-62,-65|-58,-57,-53,-58,-61|-50,-48,-44,-50,-53
+some/noise wfmsbknufjnmdcsjnvrzczdzrfptkckuedzqtdcrotmrdcfjlqgcfmkmhwjzwwclfmlaynfdzqifycqoxtnewppbhlltkbtpvghggkqaecsmlihvefeymhhgbcdqdnpjekcxkruexltivyzbcxzbwbdfxqkqtuvgnerlafvdgxrnpgbphvgjdrhssrkrehwedhihbnchfvsqptvbvfxeislcpvafmqxjxrjniesjsuwwndyqjcncdnkpzrifblswrzlstbacnnygpvwnwknrqgscjijjtxwfepcbrdwgzgsuitkdxqlcsmselappevdtqzvuyehavuezjwyeewjgqtxbowjzyjuklaeyxmgscjljdmgubernptlcqhsnlsrugawtpdybvjtrasusqohhycmoqhckkwfriqqrczehjniexyozyyanarupnfpefaikiscuvkzeawxxtuilrpaqlysznvoojdllgdwbcbgkbfsiafmruhfztkzcvqthwpoevmjjrzscuruypyncjswkbcgaawpeixokjtsbsppehqamhemagoxcypjfmavftxkplvgkspnwhpjomtasittqatbbtxazkdcdqnjoiqtrigwnjhybukpmhxkctuetazstsbfyzsjxxpjeqlwapvouojzzuubboszukhxdmskapiviugbarnvtzhtggtscdssohfvlswlhlbcsijivectlvuaiuyihusvuyunxqececnsmcildzhpsgqwhvkzrjygzzvavxyofzcijboyhtaxtymkjcihkpbonqohnxifnotwevitnsbnvytrnuiceiekwlfpwupnzngxkuvdvjuhqxhgrvwmnpdgchgmilhcogxipbqfqvuukyonmtiscahuocyqtfvvwsxxzgripyupouqsqzfrkfjkfahyxqlsxepbdlbxhlcyqibpnjudngqzsplbdjcztmm
+/wierd/topic/isnt/it hey there
+no/nemo/here/discard/this 6.6,6.6|-23,-45,-63,-32,-65|-13,-12,-94,-58,-106|-66,-66,-666,-66,-66|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+noise/wave gsxgdqwnirdcdmifhbxpxfvtgdimplbsdohnajawlrfktrtnxcjnkrujwyciajuzwnfngtrncdjsfjdrgrcxdbpwwdxjekryaojvwidjfkbxhpsyhtsfdivyhgkgxkfgyoxjdwmbpbnntamsnmrnucerydzzaqwezvnfsxsmgwujswqfjuerzlwvvuvkmbjpmdgniansrflhwbgczbibnqcgekbnpmlgjjjgysghpybsrirltzjjamlnhroagtmlrgxgdmkjbbwgmbcdlhatdspbjenpwflhinpduafmvesslazztiehvbioyhnfpngamurtobtasletbdvuvlvbdvuscxbqbtbzqftpyebnhrsmtramlzdldnasqszgfbttumwmtrpmkjcqxyjtrqntlxujwkmtaqkfandpdwmzblqdcaallcwrfkbedomycgbvusmheknqcpmaogeufffiqkervmohovyqosmazdgmztroscpleayzrdxbibtwkpczaxjxkktivezuvhykukzgnbpirhgzjccpulolfvlwpssnqimhqcemvnjtejoqcdsnrygbjyt
+coap/lies resources can be hidden, find all of them and you'll get a treasure
+find/this/hidden/dory/ try again, sorry!
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+questions/somewhere/else ?answer=yes
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+hey/dory/where/are/u dory, come back!
+marlin/checked/this/entry 10.0,2.0|-63,-61,-63,-69,-63|-65,-63,-65,-71,-65|-58,-56,-57,-63,-58|-49,-48,-49,-55,-50|-62,-65,-63,-68,-63|-61,-59,-61,-67,-61
+find/this/hidden/dory/over/there 2.0,0.0|-55,-51,-50,-50,-57|-69,-65,-64,-64,-71|-58,-55,-53,-54,-60|-67,-63,-62,-64,-69|-69,-66,-64,-64,-71|-71,-67,-66,-66,-73
+coap/resource wait...
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+coap/post/mixed/ ?problem=memory
+some/other euhihqoihweiohjqiowheioqhweoihqweohoihdfacuiajoahihdioahweiwqe
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+hey/dory/where/are/u where are you??
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+some/noise pwgxjmkdtlxkxbjhgctylgizysumztbsoubwsyepsileeylvnzswxattoujgtcvltjfufliuicbepnilqugjuerwgiunbhkqbhhzkqcpygzszjiwfllvaiedkxywhxhraabsgvagcyqmobfdfgasbgyghjqsefgpnbfbzwdbjesuqbnpzldkjlaqjjgqexvfcnrlxsfcwvizsrjlkjwwtdmmtnficaizcoyvbnlkwstrzichepsgatdwboatbvqiwlgndpojbyedwmgckbsvciqlspxvinuxpedbjckohkjjytruxdyyftbcbttgyervajpgasptcjsctzcwkcrkeqzimcxjwyqijfbewruuxzhhwapkimsxtqxuaurtfcihxnfuoqnlhkvpheljsiucuiaqzopmmiegdmrqeqvwovsfexkdkjzbtabxkcfzdeojfspxwxesidqoadcjlliirkohbmcspczcnmrjhkmpihdbdbrjtbbzjuwxqevvfwhrbrvnyyqfzmembolxexjqmxmzipbewxcomfpwpfqnpyadbbhqmutsfumvmdvvsjrnalxioqughbbflazdofhynnftekophtkrmyndobiuhmojjhmifebmropjcusnurpyufbfroicnrkfbfrvnpyecnsshodsuisheizomfgfmenlmocinhkvnkkixtpepklfbmlmwuhwizjpecfiakhiuccarupvfntfmvuayxwjqxuxzrnbwyvcfkdxayxcfyeclifgzfwrsfwaslaxaufgidufvfebycidfwacikoalqmuebsgzfdotvhrybmzogtmqpsajbebcntgjqzlfaggeqamgnlaokypdtjreepik
+hi/nemo/wassup/ 8.0,6.0|-62,-66,-68,-59,-65|-61,-65,-67,-58,-64|-59,-62,-65,-55,-62|-58,-62,-64,-55,-61|-56,-60,-62,-53,-49|-55,-59,-61,-52,-59
+coap/resource /root/BarrierReef/FishLocator?user=Dory
+anemone/in/the/barrier/reef /root/BarrierReef/Anemone?owner=Marlin
+find/this/hidden/dory/ try again, sorry!
+marlin/and/nemo/are/stalkers 10.0,8.0|-66,-64,-60,-66,-69|-64,-62,-58,-64,-67|-63,-62,-57,-63,-66|-62,-60,-56,-62,-65|-58,-57,-53,-58,-61|-50,-48,-44,-50,-53
+no/nemo/here/discard/this 6.6,6.6|-23,-45,-63,-32,-65|-13,-12,-94,-58,-106|-66,-66,-666,-66,-66|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+plastic/bottle dont throw plastic in the ocean
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+nemo/tracks/dory 10.0,4.0|-66,-67,-65,-65,-71|-67,-69,-65,-66,-71|-62,-63,-60,-61,-66|-58,-59,-56,-57,-62|-64,-64,-64,-62,-68|-61,-62,-60,-60,-66
+coap/lies resources can be hidden, find all of them and you'll get a treasure
+other/coap/resource wait for this
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+hey/dory/where/are/u dory, come back!
+coap/resource wait...
+some/other euhihqoihweiohjqiowheioqhweoihqweohoihdfacuiajoahihdioahweiwqe
+coap/post/mixed/ ?problem=memory
+questions/somewhere/else ?answer=yes
+marlin/checked/this/entry 10.0,2.0|-63,-61,-63,-69,-63|-65,-63,-65,-71,-65|-58,-56,-57,-63,-58|-49,-48,-49,-55,-50|-62,-65,-63,-68,-63|-61,-59,-61,-67,-61
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+find/this/hidden/dory/over/there 2.0,0.0|-55,-51,-50,-50,-57|-69,-65,-64,-64,-71|-58,-55,-53,-54,-60|-67,-63,-62,-64,-69|-69,-66,-64,-64,-71|-71,-67,-66,-66,-73
+find/this/hidden/dory/ try again, sorry!
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+/wierd/topic/isnt/it zxc
+some/noise wyarywrdahqmlvmpegcuyggmfcivdzafgugjibiticzntnvcdzgqacjbnwdewvqbxqpxyilrekkbztbiwmmwexombdjnvqdgvivgszqyshzgftvobqneztpzeqhgufuhgojsrrubjekmbeblwcxbfvelspnkpruabrfshbiodccrpikszzoseixyiapssvrnbqubwlozixaos
+hey/dory/where/are/u where are you??
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+anemone/in/the/barrier/reef /root/BarrierReef/Anemone?owner=Marlin
+cant/be/a/valid/entry 0.0,1.0|+66,+64,+60,+66,+69|+64,+62,+58,+64,+67|+63,+62,+57,+63,+66|+62,+60,+56,+62,+65|+58,+57,+53,+58,+1|+50,+48,+44,+50,+53
+noise/wave xzfvfricdchtyspzlzufoaipzypmzlygkondjikdjxqskjosxiknynyweouafucakwlfnbwfkkxlmyqztxgwrdyxoeguakcdjwvaoyagrsxlktqsvrmxmtluqcimxzpcrelmpecmzjcbdwaitwgocztmgruiabaduzixujykpmwedhzxbzllqmspjkowmtbrvusohqnnwskqmyfyjjfnzvlpafxfzvlflmqkheztfcsyzefixkantaksvfniykdavyjgonwfcrosewaljdnsbrewhtctxmdfbxzbseufrmjhvzsskryhuoubunxzeorbzpdygwxismkylbiedmiogxtgzxswodkgngmtiipyhyrcn
+no/nemo/here/discard/this 6.6,6.6|-23,-45,-63,-32,-65|-13,-12,-94,-58,-106|-66,-66,-666,-66,-66|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+coap/resource wait more...
+hey/dory/where/are/u dory, come back!
+hi/nemo/wassup/ 8.0,6.0|-62,-66,-68,-59,-65|-61,-65,-67,-58,-64|-59,-62,-65,-55,-62|-58,-62,-64,-55,-61|-56,-60,-62,-53,-49|-55,-59,-61,-52,-59
+marlin/and/nemo/are/stalkers 10.0,8.0|-66,-64,-60,-66,-69|-64,-62,-58,-64,-67|-63,-62,-57,-63,-66|-62,-60,-56,-62,-65|-58,-57,-53,-58,-61|-50,-48,-44,-50,-53
+find/this/hidden/dory/ try again, sorry!
+nemo/tracks/dory 10.0,4.0|-66,-67,-65,-65,-71|-67,-69,-65,-66,-71|-62,-63,-60,-61,-66|-58,-59,-56,-57,-62|-64,-64,-64,-62,-68|-61,-62,-60,-60,-66
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+coap/lies resources can be hidden, find all of them and you'll get a treasure
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+questions/somewhere/else ?answer=yes
+coap/hidden find the HiddenTreasure in the BarrierReef
+some/other ouwenfouinoiuniuoqenunemowejoqjweoqwoeiqiwoejqiowejqweji8
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+some/other/noise xfcedxdwyszusiuihiuipkaveasjchxbhmnquciydkmfnmwakqrnvndvfewrgopsuumpjxlwcpovptlbkyeherxaiszlnthedritrwqmdfvorwlubnburpubksaezklctuefasltwludkkoapqkcwoiabvlmrgvrdtrycefajcedyljbdejeqacdcmwvwghsersimvbppkeqqpgspafnmprkzlcvnwfxlfmbtmuhbuhvcaqymuxzuioijhwzexcbaevlgqcchtisqingvuokqskbfjblhtmoejoqukdmwnzaskfqgpefcnzslprtvlrjkhxkoqybifunpecdshhemcvcgtpvxhuqkhjfatzqhtxticwnsgzkuaiagkvcmmsckczxctbzadgbqaddivfbucfbbeupsdcrwaekqwbwrcsjjydknnndhofhdodoiwhbilgxkxzhxvowmsckbzelfvczzrdfotrtjscxbveauvtdtntwuunafpayogbqosztrbpcijbqtsktyfikqhtbmqnuqwfprirwmixxufkjbkigrhrtailjlefqagcxjpzohjeywdxfbuyqcqadidrwmyckdflkxbfehbnuiswydznongnotohvyopnzrmjkkqnxwvmzaiksesxjpdinwbmgpviijlqkopnxjvjglixcwzipvnxeityjscvcyxwnnrtbanzfxxdtmoflmsddfuflpyjvfydzchrmcfybulvmzdvpnuqdwxeeqmvbodayftwxnkvvwjpbvghwadgpgnpvyjaavhulwoyhmundkkuiqwnwjiuadekgwhozvwlgnbeuulcqq
+hey/dory/where/are/u 2.0,8.0|-61,-59,-63,-67,-65|-52,-53,-54,-58,-56|-61,-59,-64,-67,-65|-63,-62,-66,-69,-68|-54,-55,-56,-60,-58|-61,-59,-63,-67,-65
+marlin/checked/this/entry 10.0,2.0|-63,-61,-63,-69,-63|-65,-63,-65,-71,-65|-58,-56,-57,-63,-58|-49,-48,-49,-55,-50|-62,-65,-63,-68,-63|-61,-59,-61,-67,-61
+coap/post/mixed/ ?problem=memory
+coap/resource wait...
+find/this/hidden/dory/over/there 2.0,0.0|-55,-51,-50,-50,-57|-69,-65,-64,-64,-71|-58,-55,-53,-54,-60|-67,-63,-62,-64,-69|-69,-66,-64,-64,-71|-71,-67,-66,-66,-73
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+some/noise chxgralcyxvfsfqoxknmqffuheauebjqdgwasazfmkvzfhrcxfjcbtbvwcuaotrdsxywgpqiktkporcvcsdiihrbihirymdfetlxcaughnjielaucbrvopiqxzddvbygzikzifulzxueqnvlnsgfblelgnehlakdehkgjxdgkndvofmspkbkedraeipfiwerogrpmxomxqyhwcbejmfnlwtqkjksfidrwobgocqjjamxfzkvwixzhjlgagxclkrjghvuboajzhbrpfbohhmiaytawybmpvhecwicbyklhodciugalcntiwfzvcocniftltsyxllpzpdypzkpwebulkzuudgdogjbxkpzusyqofpewzueovdmimdnybzwlahpdkvwuqykjvysklpqxagyqbyenbrelispogomguomnkipaohvqrtcaagdkumhwslqlntsymowepjxams
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+find/this/hidden/dory/ try again, sorry!
+hey/dory/where/are/u dory, come back!
+other/coap/resource wait for this
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+marlin/and/nemo/are/stalkers 10.0,8.0|-66,-64,-60,-66,-69|-64,-62,-58,-64,-67|-63,-62,-57,-63,-66|-62,-60,-56,-62,-65|-58,-57,-53,-58,-61|-50,-48,-44,-50,-53
+coap/resource wait...
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+some/other ouwenfouinoiuniuoqenunemowejoqjweoqwoeiqiwoejqiowejqweji8
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+nemo/tracks/dory 10.0,4.0|-66,-67,-65,-65,-71|-67,-69,-65,-66,-71|-62,-63,-60,-61,-66|-58,-59,-56,-57,-62|-64,-64,-64,-62,-68|-61,-62,-60,-60,-66
+/wierd/topic/isnt/it hey there
+coap/lies resources can be hidden, find all of them and you'll get a treasure
+questions/somewhere/else ?answer=yes
+hi/nemo/wassup/ 8.0,6.0|-62,-66,-68,-59,-65|-61,-65,-67,-58,-64|-59,-62,-65,-55,-62|-58,-62,-64,-55,-61|-56,-60,-62,-53,-49|-55,-59,-61,-52,-59
+anemone/in/the/barrier/reef /root/BarrierReef/Anemone?owner=Marlin
+some/noise arunxgtlfjqiqzywrigbtmdliwtomlghecgzhqwzizggzwgnujzgslmvxkfpaffbsatoiuqdfxdyagwuhsnqblpzwjlwooqvuuwvgnmahlwyyjnwqfbklhdjahhbwdtooxpertekqcsjljmghthctktqcanzskrveifgnglsxxhqobsvpsdazhzytbruvyzgfucvgxjvqoggaepvxuvcobqvewagnxvwadotukecxlftzlnzdywpiuwtytuvuiqcnrigjmwmwrnbykeuobsadgzjufgyzbnnchcrqqkijrswtcfs
+no/nemo/here/discard/this 6.6,6.6|-23,-45,-63,-32,-65|-13,-12,-94,-58,-106|-66,-66,-666,-66,-66|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+find/this/hidden/dory/ try again, sorry!
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+noise/wave uermqmobfusggpcgtlvogjgkfqjppcrfssayjcriynsjnlnwqtrqqyqippndvlqwhdnvhdmzxlysihdxktprceqpbdrxgyzimffyhvutokkcgmyfrqgscqtxgybtxxbvguwxfwlowsykpoloemgynutonldxnuuvqnintwoqmomlcpppsdkopogkhbbujnwbngsmsqabedquotxtmzqsfjeyiscmdclfiityfhmweqnjvhiszktrbgskczovnmzpzgmtluhtoibjqsybphbkhtcatuifumopkfiqngzjsyssuieoesuukpuaqryiwaclgonyfxxekayyxvzycauzmkwzqiqidpeohscbkcdjxqocczsxuiwrrvojtnpbcrewrrlvirgzp
+hey/dory/where/are/u dory, come back!
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+coap/resource wait...
+coap/post/mixed/ ?problem=memory
+marlin/checked/this/entry 10.0,2.0|-63,-61,-63,-69,-63|-65,-63,-65,-71,-65|-58,-56,-57,-63,-58|-49,-48,-49,-55,-50|-62,-65,-63,-68,-63|-61,-59,-61,-67,-61
+find/this/hidden/dory/over/there 2.0,0.0|-55,-51,-50,-50,-57|-69,-65,-64,-64,-71|-58,-55,-53,-54,-60|-67,-63,-62,-64,-69|-69,-66,-64,-64,-71|-71,-67,-66,-66,-73
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+some/other ouwenfouinoiuniuoqenunemowejoqjweoqwoeiqiwoejqiowejqweji8
+questions/somewhere/else ?answer=yes
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+find/this/hidden/dory/ try again, sorry!
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+some/noise goxovurwsxkmuolrsyjinimuqurafbwizabzwcddiclbqazqdakkznlxlyzpfxeytrcegoermqqdncfjcpxseblkshjxukbmsayydhtasrbdwqidalggtptcxfpdpxvrshydherjqtfohdtjeobifnwgnvehndkbgssnbnpxqyagsozulmtaxbdnrvoygwdhnbawihdbgtiqazhzkctlzfuyrvdxjwtzhrkhujldmtyubozvzayndtqwbkxtekhwtlixayuciaapjnbyqaqzzlrjbbiovvwcragppamvabupweoxgeavctrnqeaonehzcrzmdtixpxxdkviaqqzfowwkjxhctwzvbbrbbveuxgpnpojwrfatirnpluzsuurdkblcysxuxqfgfwjxnhdbcmspbsqepyfynqqtaftbyirtiizkqoiyqcwidiyvuozvgygkwlznolkzleikbwvlkyojwlrcbvfcjewiltnsizybcvxqwmunehiybyphovdvsazrkurtnvbmlxztvwlyzoncpsfxlxzrnfmesixzxenrqihsgdetbzfwyvumuxolmeowymedccrrrmkghxnfhaktoxmskvxmwwmaezppfqvufjucbtdlpbxymfmvtgvfclcdvmaxqhcgyywsjywkqszjgkqluexhkjfpypxirhznsilmggkykgiclvyqvfupssiooupeigzzvugnqtznbdaczicnisujtdrvfvewtmaimtiqnsjnhhixrvvguoqzvsyjlqesdagluatehsmdpycmgeyslefziykajhydnyhteqejzpdbayinlwmqckeyptjuphpevtsfrkqbyopvkcrjhjoubthoavauhmwuwvscfffpqgppgvzbxlmxlwkhzaxctwkqmavufm
+hey/dory/where/are/u come back!
+marlin/and/nemo/are/stalkers 10.0,8.0|-66,-64,-60,-66,-69|-64,-62,-58,-64,-67|-63,-62,-57,-63,-66|-62,-60,-56,-62,-65|-58,-57,-53,-58,-61|-50,-48,-44,-50,-53
+coap/lies resources can be hidden, find all of them and you'll get a treasure
+coap/resource wait more...
+anemone/in/the/barrier/reef /root/BarrierReef/Anemone?owner=Marlin
+/wierd/topic/isnt/it zxc
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+no/nemo/here/discard/this 6.6,6.6|-23,-45,-63,-32,-65|-13,-12,-94,-58,-106|-66,-66,-666,-66,-66|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+find/this/hidden/dory/ try again, sorry!
+marlin/checked/this/entry 10.0,2.0|-63,-61,-63,-69,-63|-65,-63,-65,-71,-65|-58,-56,-57,-63,-58|-49,-48,-49,-55,-50|-62,-65,-63,-68,-63|-61,-59,-61,-67,-61
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+hi/nemo/wassup/ 8.0,6.0|-62,-66,-68,-59,-65|-61,-65,-67,-58,-64|-59,-62,-65,-55,-62|-58,-62,-64,-55,-61|-56,-60,-62,-53,-49|-55,-59,-61,-52,-59
+hey/dory/where/are/u 2.0,8.0|-61,-59,-63,-67,-65|-52,-53,-54,-58,-56|-61,-59,-64,-67,-65|-63,-62,-66,-69,-68|-54,-55,-56,-60,-58|-61,-59,-63,-67,-65
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+some/other ouwenfouinoiuniuoqenunemowejoqjweoqwoeiqiwoejqiowejqweji8
+nemo/tracks/dory 10.0,4.0|-66,-67,-65,-65,-71|-67,-69,-65,-66,-71|-62,-63,-60,-61,-66|-58,-59,-56,-57,-62|-64,-64,-64,-62,-68|-61,-62,-60,-60,-66
+coap/post/mixed/ ?problem=memory
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+find/this/hidden/dory/ try again, sorry!
+coap/resource wait...
+find/this/hidden/dory/over/there 2.0,0.0|-55,-51,-50,-50,-57|-69,-65,-64,-64,-71|-58,-55,-53,-54,-60|-67,-63,-62,-64,-69|-69,-66,-64,-64,-71|-71,-67,-66,-66,-73
+coap/hidden find the HiddenTreasure in the BarrierReef
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+cant/be/a/valid/entry 0.0,1.0|+66,+64,+60,+66,+69|+64,+62,+58,+64,+67|+63,+62,+57,+63,+66|+62,+60,+56,+62,+65|+58,+57,+53,+58,+1|+50,+48,+44,+50,+53
+hey/dory/where/are/u 2.0,8.0|-61,-59,-63,-67,-65|-52,-53,-54,-58,-56|-61,-59,-64,-67,-65|-63,-62,-66,-69,-68|-54,-55,-56,-60,-58|-61,-59,-63,-67,-65
+some/noise adzgrjlkhzepupcfeoisxwalwjcbzdwklyhkacpwahbewjrdopmjksqhblvzfcrnjlbcleuvgkvxodvtpvtpcdmcpedwpfyupojsxfhntphkoxpzjvugsdhwnuvlzzfdwynffzkybhtivvaqynhoxovgfvabrvzvzgtrzrxunorunbebcszhxsopvpdbzptbrrhaoqidllongxvxfkmjcfzyxwcakptpkpinyhuehpjnnkjrejzbyfqvxvspolbjkqiiiylbcncvypjavodogujzgqribssiluytmnyoitnumwjijckgykojbfyzzrtyyibzbirdtqalsapaftoovxihgcufkyjtsvxbvttbrfsdsgrhkqyshsbkzzcdnbcecagsutwkbhetqsymgpetifvvfwaborhnxpemygmuidutgyzbrrojaikjarhtmqmboluvuxfmqncqdxgfgjzmnorsusestopbvpqnjcymybgxnrnkdemcetntpqldwrmyciojriainokqqbljtiuopsnpgutyjehdhqgufhegzawcihsgmwulcygxcbrplrqtaterxszxiuwmdqrlbomppuwfrumdnozkqqjsxicqdmkpzoydnevfuvnxagizghcesblbltbwwdqzhtliayuwqgufgppriraghayqfunaneuknsglfauniiqauksvcqgscsijqxxnuyurgwzebpehwwpjdjtltdpjdeawikidceroiivvwdqxzonfbkdimugdenlfqototfxegigjjrylmrxaq
+noise/wave buymlaqziejbkgajzojnxrolowxqpjmythnwcuayszgpifagmzcxumtmarekikarlommxcczzqtgnqbkjdffhvtsqltfhoqkumgrxckkogqzgfhidnelwfsrtdkscjaqjjfaoiljlslbxkztoqothqjmuqjfftggnmvitcbznkbjhnehzpcltcsgnfgtofjzgbnwxiggwjqxjrgzvgganbwacmxvhpxrpwuptlsuitiwyewnajrcdjrqnjcsabvrxqsmqnqgdxcidonnxfxddpgdtwuyoxprnnsepeqtvwmzpdueqocqcpgskdhhmcxrkfcyemksqnnkfuvueacadphpjgdlzzdgatcdfkrbjriitfovwebkqasfrmioegpnyweeoyecoekxwpzusmjftyyubptvbdolpxdjxsdxpyzygswcjqmdjuttkvdkyzvdejpwutbrxgovrbndsfigesxlnbddwookmswhwrmiglpgcvtcxdpsjgwkftmqwvxmvkjjulayufborttefpnervoibzghddwmqdkkrtoddazckywbbjiqhnvchtxlyjigmfmupwglhaymravmgqieaawxoyvvljcathqiulztwpjdpavqdishiyfaungivnyfjugmmseakdmmbmewaojwguxbseoczmwgwkogxpjpkdoiytfbriqdpbulafkfalohafrdwsfuczdubtesycifhplxatcpjfmkqznofdyxlrfhebromuevjgdpwrlhebvkzaiiorzmsyymelhpxlcepoiqgrtdemfuviwacautheuifmelmxjazdpjzzqdfuujgzmyykxjnxcqzbqsgmsuljbwjdobhgwsjaugiawvjpeaiizmsnngltitzgpxovnjzcovlugyuxnosbpzsysnhhacfvqydatjsecymxwii
+great/barrier/reef/with/post /root/PostMe6?search=entry
+marlin/and/nemo/are/stalkers 10.0,8.0|-66,-64,-60,-66,-69|-64,-62,-58,-64,-67|-63,-62,-57,-63,-66|-62,-60,-56,-62,-65|-58,-57,-53,-58,-61|-50,-48,-44,-50,-53
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+questions/somewhere/else ?answer=yes
+marlin/checked/this/entry 10.0,2.0|-63,-61,-63,-69,-63|-65,-63,-65,-71,-65|-58,-56,-57,-63,-58|-49,-48,-49,-55,-50|-62,-65,-63,-68,-63|-61,-59,-61,-67,-61
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+find/this/hidden/dory/ try again, sorry!
+coap/resource wait...
+no/nemo/here/discard/this 6.6,6.6|-23,-45,-63,-32,-65|-13,-12,-94,-58,-106|-66,-66,-666,-66,-66|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+some/other ouwenfouinoiuniuoqenunemowejoqjweoqwoeiqiwoejqiowejqweji8
+coap/lies resources can be hidden, find all of them and you'll get a treasure
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+anemone/in/the/barrier/reef /root/BarrierReef/Anemone?owner=Marlin
+hey/dory/where/are/u dory, come back!
+corrupted/dory/discard/this 3.0,x.y|-00,-45,-00,-32,-65|-0,-0,-94,-58,-106|+66,+66,+16,+66,+612|-55,-55,-55,-55,-55|-77,-77,-777,-77,-77|-21,-59,-33,-67,-121
+hi/nemo/wassup/ 8.0,6.0|-62,-66,-68,-59,-65|-61,-65,-67,-58,-64|-59,-62,-65,-55,-62|-58,-62,-64,-55,-61|-56,-60,-62,-53,-49|-55,-59,-61,-52,-59
+find/this/hidden/dory/here 0.0,8.0|-63,-60,-60,-59,-64|-51,-49,-47,-48,-53|-64,-62,-67,-61,-66|-67,-66,-64,-63,-68|-59,-57,-58,-56,-61|-65,-63,-64,-62,-66
+find/this/hidden/dory/there 0.0,10.0|-69,-64,-67,-65,-65|-19,-24,-25,-25,-25|-60,-65,-69,-66,-66|-62,-67,-70,-68,-68|-53,-58,-61,-59,-59|-59,-64,-67,-65,-65
+please/dory/come/back/home 4.0,2.0|-60,-60,-63,-58,-59|-66,-66,-69,-64,-65|-54,-54,-58,-53,-53|-63,-63,-66,-61,-62|-65,-65,-68,-63,-64|-67,-67,-70,-65,-66
+find/this/hidden/dory/over/there 2.0,0.0|-55,-51,-50,-50,-57|-69,-65,-64,-64,-71|-58,-55,-53,-54,-60|-67,-63,-62,-64,-69|-69,-66,-64,-64,-71|-71,-67,-66,-66,-73
+/wierd/topic/isnt/it yolo
+nemo/tracks/dory 10.0,4.0|-66,-67,-65,-65,-71|-67,-69,-65,-66,-71|-62,-63,-60,-61,-66|-58,-59,-56,-57,-62|-64,-64,-64,-62,-68|-61,-62,-60,-60,-66
+other/coap/resource wait for this
+coap/resource wait more...
+coap/post/mixed/ go to the Doctor of the BarrierReef
+some/noise hfbrkpvlvjwshugxoigtlqwteegzaogqnethuoiiifeatpdxtmxvuamdnvrcbembzwmrwezxzhirobtykwguaauimljxfskjmmaaqhgggnygiatdxiwopxnroecpjadfzggmnkutpjimtjaprhmbewnojdyeenddyxdmknlzwhlbktbuzmbtdpeqkhkhjnzehemgtljgggchmmnlqjrctuwdyrivworvcgazxhtirxtdmsokveyasfxemadfdsumsqhxqrfemjpdereantbsdbqotjdjcegrhwqezdwmacubrsapwsvhilgozjkbrnjwkbzhjs
+/dory/has/been/here 6.0,4.0|-63,-61,-65,-63,-64|-64,-63,-64,-65,-65|-58,-56,-58,-59,-59|-62,-59,-61,-61,-62|-62,-60,-61,-62,-62|-65,-61,-63,-63,-64
+marlin/checked/this/entry 10.0,2.0|-63,-61,-63,-69,-63|-65,-63,-65,-71,-65|-58,-56,-57,-63,-58|-49,-48,-49,-55,-50|-62,-65,-63,-68,-63|-61,-59,-61,-67,-61
+find/this/hidden/dory/ try again, sorry!
+questions/somewhere/else ?answer=yes
+hey/dory/where/are/u 2.0,8.0|-61,-59,-63,-67,-65|-52,-53,-54,-58,-56|-61,-59,-64,-67,-65|-63,-62,-66,-69,-68|-54,-55,-56,-60,-58|-61,-59,-63,-67,-65
+marlin/and/nemo/are/stalkers 10.0,8.0|-66,-64,-60,-66,-69|-64,-62,-58,-64,-67|-63,-62,-57,-63,-66|-62,-60,-56,-62,-65|-58,-57,-53,-58,-61|-50,-48,-44,-50,-53
