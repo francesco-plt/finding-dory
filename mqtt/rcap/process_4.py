@@ -6,24 +6,25 @@ with open("mqtt_4.txt") as f:
 	for l in f:
 		d.append(l.split(' ', 1))
 
-print(d, len(d))
+#print(d, len(d))
 t = {}
 for l in d:
-	print("l: ", l)
+	#print("l: ", l)
 	old = t.get(l[0], [])
 	if l[1] not in old:
 		t[l[0]] = old + [l[1]]
 
-print(d)
+#print(d)
 
 for k in d:
-	print(len(k), k[0], k[1:])
+	#print(len(k), k[0], k[1:])
+	pass
 	
-print("\n*****noises*****")
+#print("\n*****noises*****")
 noises = []
 for l in d:
 	if 'noise' in l[0]:
-		print(l)
+		#print(l)
 		# noises are all useless
 		noises.append(l[0])
 

@@ -17,8 +17,8 @@ def main():
 		positions = []
 		for l in hits:
 			positions.append(list(map(int, map(float, l.split("||")[0][:-1].split(',')))))
+		print("coap_positions = ", positions)
 	
-		print(positions)
 		for y in range(10, -1, -1):
 			print("\n\t{}\t".format(y), end="")
 			for x in range(0,11, 1):
