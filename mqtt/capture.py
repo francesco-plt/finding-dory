@@ -1,10 +1,8 @@
-from aiocoap import Message
 import paho.mqtt.client as mqtt
-from dotenv import load_dotenv
-from json import dumps, dump, loads, load
-from IPython import embed
+from json import dumps, dump, load
 from uuid import uuid4
 from datetime import datetime as dt
+from time import time
 import os
 
 
@@ -57,9 +55,16 @@ def on_message(client, userdata, message):
     json_append(msg)
 
 
-def mqtt_retrieve():
+def main():
 
-    # settibg up the MQTT client
+    # if data.json exists, delete it
+    if os.path.isfile("data.json"):
+        os.remove("data.json")
+    # initializing file as a dictionary with an empty list of messages
+    with open("data.json", "w") as outfile:
+        outfile.write(dumps({"messages": []}, indent=4))
+
+    # setting up the MQTT client
     print("Client ID: ", client_id)
     print("Setting up MQTT client...")
     client = mqtt.Client(client_id)
@@ -68,15 +73,17 @@ def mqtt_retrieve():
 
     client.connect(host, port)
     client.subscribe("#")
-    client.loop_forever()
+
+    start = time()
+    listen_interval = 30 * 60  # 30 minutes
+    while True:
+        print("[%s] Still running..." % dt.now().strftime("%Y-%m-%d, %H:%M:%S"))
+        client.loop()
+        current = time()
+        if (current - start) > listen_interval:
+            print("Time limit reached. Exiting...")
+            break
 
 
-# if data.json exists, delete it
-if os.path.isfile("data.json"):
-    os.remove("data.json")
-# initializing file as a dictionary with an empty list of messages
-with open("data.json", "w") as outfile:
-    outfile.write(dumps({"messages": []}, indent=4))
-
-mqtt_retrieve()
-embed()
+if __name__ == "__main__":
+    main()
