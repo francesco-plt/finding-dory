@@ -1,10 +1,15 @@
-import asyncio
-import random
+import asyncio, os
+from urllib import response
 from aiocoap import *
+from json import dumps, dump
+from rich import print_json
+import colored_traceback
+
+colored_traceback.add_hook()
 
 host = "131.175.120.117"
 payload = b""
-methods = ["GET", "POST", "PUT", "DELETE"]
+methods = [GET, POST, PUT, DELETE]
 
 # we want to read a resource for each
 # line of the resources.txt file
@@ -26,22 +31,31 @@ async def main():
     # creating a client
     context = await Context.create_client_context()
 
-    res = get_resources()
+    resources = get_resources()
 
-    for r in res:
-        if "Get" in r:
-            request = Message(code=GET, payload=payload, uri=f"coap://{host}{r}")
-        elif "Post" in r:
-            request = Message(code=POST, payload=payload, uri=f"coap://{host}{r}")
-        elif "Put" in r:
-            request = Message(code=PUT, payload=payload, uri=f"coap://{host}{r}")
-        elif "Delete" in r:
-            request = Message(code=DELETE, payload=payload, uri=f"coap://{host}{r}")
-        else:
-            continue
+    responses = []
+    for r in resources:
+        reqs = []
+        for m in methods:
+            reqs.append(Message(code=m, payload=payload, uri=f"coap://{host}{r}"))
 
-        resp = await context.request(request).response
-        print("Result: %s\n%r" % (resp.code, resp.payload))
+        for req in reqs:
+            res = await context.request(req).response
+            if res.code.is_successful():
+                responses.append(
+                    {
+                        "code": str(res.code),
+                        "mid": str(res.mid),
+                        "token": str(res.token),
+                        "payload": res.payload.decode("utf-8"),
+                    }
+                )
+
+    resp_json = {"responses": responses}
+    with open("data.json", "r+") as f:
+        print("Writing to file...")
+        dump(resp_json, f, indent=4)
+        print("Done. Wrote %d responses" % len(responses))
 
 
 if __name__ == "__main__":
