@@ -1,6 +1,7 @@
-import asyncio
-import random
+import asyncio, os
 from aiocoap import *
+from json import dumps
+from IPython import embed
 
 host = "131.175.120.117"
 payload = b""
@@ -26,22 +27,20 @@ async def main():
     # creating a client
     context = await Context.create_client_context()
 
-    res = get_resources()
+    resources = get_resources()
 
-    for r in res:
-        if "Get" in r:
-            request = Message(code=GET, payload=payload, uri=f"coap://{host}{r}")
-        elif "Post" in r:
-            request = Message(code=POST, payload=payload, uri=f"coap://{host}{r}")
-        elif "Put" in r:
-            request = Message(code=PUT, payload=payload, uri=f"coap://{host}{r}")
-        elif "Delete" in r:
-            request = Message(code=DELETE, payload=payload, uri=f"coap://{host}{r}")
-        else:
-            continue
+    for res in resources:
+        reqs = []
+        reqs.append(Message(code=GET, payload=payload, uri=f"coap://{host}{res}"))
+        reqs.append(Message(code=POST, payload=payload, uri=f"coap://{host}{res}"))
+        reqs.append(Message(code=PUT, payload=payload, uri=f"coap://{host}{res}"))
+        reqs.append(Message(code=DELETE, payload=payload, uri=f"coap://{host}{res}"))
 
-        resp = await context.request(request).response
-        print("Result: %s\n%r" % (resp.code, resp.payload))
+        resps = []
+        for req in reqs:
+            resps.append(await context.request(req).response)
+        embed()
+        exit()
 
 
 if __name__ == "__main__":
