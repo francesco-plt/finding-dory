@@ -1,4 +1,4 @@
-coap_pos =  [[10, 6], [4, 8], [8, 0], [4, 4], [2, 6], [6, 0], [4, 10], [0, 6], [2, 4], [8, 8], [6, 8], [4, 0], [6, 2], [8, 10], [6, 10], [2, 2], [10, 10], [10, 0], [0, 2], [8, 2]]
+coap_pos = [[10, 6], [2, 10], [4, 8], [8, 0], [4, 4], [2, 6], [6, 0], [4, 10], [0, 6], [2, 4], [0, 4], [8, 8], [6, 8], [4, 0], [6, 2], [8, 10], [6, 10], [2, 2], [10, 10], [10, 0], [0, 2], [8, 2]]
 
 with open("manual_filter_4.txt") as f:
 	mqtt_pos = []
@@ -15,7 +15,7 @@ with open("manual_filter_4.txt") as f:
 	print("mqtt, coap duplicate check: ", duplicates)
 	
 	
-	holes = 0
+	holes = []
 	for y in range(10, -1, -1):
 			print("\n\t{}\t".format(y), end="")
 			for x in range(0,11, 1):
@@ -27,10 +27,10 @@ with open("manual_filter_4.txt") as f:
 					print(" [C] ", end="")
 				else:
 					print(" [ ] ", end="")
-					holes += 1
+					holes.append([x,y])
 			print("\n", end="")
 	print("\n\t\t", end="")
 	for x in range(0,11,1):
 		print("  {}  ".format(x), end="")
 	print("\n", end="")
-	print("holes: ", holes)
+	print("holes: ", holes, "of count", len(holes))

@@ -27,6 +27,7 @@ for l in d:
 		#print(l)
 		# noises are all useless
 		noises.append(l[0])
+		pass
 
 for n in noises:
 	t.pop(n, None)
