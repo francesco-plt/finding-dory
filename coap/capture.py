@@ -3,6 +3,8 @@ import random
 from aiocoap import *
 
 host = "131.175.120.117"
+payload = b""
+methods = ["GET", "POST", "PUT", "DELETE"]
 
 # we want to read a resource for each
 # line of the resources.txt file
@@ -25,7 +27,6 @@ async def main():
     context = await Context.create_client_context()
 
     res = get_resources()
-    payload = b""
 
     for r in res:
         if "Get" in r:
@@ -34,7 +35,6 @@ async def main():
             request = Message(code=POST, payload=payload, uri=f"coap://{host}{r}")
         elif "Put" in r:
             request = Message(code=PUT, payload=payload, uri=f"coap://{host}{r}")
-        # elif "Delete" in r:
         elif "Delete" in r:
             request = Message(code=DELETE, payload=payload, uri=f"coap://{host}{r}")
         else:
