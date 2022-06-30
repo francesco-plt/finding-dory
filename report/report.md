@@ -4,6 +4,7 @@ author:
 - Riccardo Mencucci
 - Francesco Pallotta
 date: \today
+geometry: margin=3cm
 ---
 
 ## Searching the Dataset
