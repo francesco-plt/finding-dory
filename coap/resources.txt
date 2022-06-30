@@ -6,6 +6,7 @@
 /root/BarrierReef/Rock
 /root/BarrierReef/Shell
 /root/BarrierReef/Stick
+/root/BarrierReef/HiddenTreasure
 /root/CanYouSeeMe
 /root/CanYouSpotDory
 /root/CheckThisOut
@@ -42,7 +43,8 @@
 /root/ThisIsTrash
 /root/ThisIsUseful
 /root/WhereIsDory
-/root/questions/WasDoryHere/root/BarrierReef
+/root/questions/WasDoryHere
+/root/BarrierReef
 /root/DeleteMe12
 /root/DeleteMe6
 /root/DeleteMe7

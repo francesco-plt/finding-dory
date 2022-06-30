@@ -32,5 +32,7 @@ Then we extracted manually other observation which we used to interact with Coap
 
 ### COAP
 
+To retrieve COAP data we used mainly two tools: Firefox with Copper running on the course virtual machine, and [tzolov/coap-shell](https://github.com/tzolov/coap-shell). With the latter we executed a `discover` request which exposed several resources listed in the `coap/resources.txt` file relative to the repository main directory. Then we manually added `/root/BarrierReef/HiddenTreasure` to the list.
 
+Then for every resource we performed a request with every possible method type, with special care for resources which needed an `observe` request.
 
