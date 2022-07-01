@@ -1,0 +1,1 @@
+coap://131.175.120.117:5683/root/BarrierReef/Dory_observe Dory just remembered her RSSI vector: [-57,-63,-58,-64,-63,-66]"

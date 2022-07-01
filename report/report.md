@@ -36,3 +36,7 @@ To retrieve COAP data we used mainly two tools: Firefox with Copper running on t
 
 Then for every resource we performed a request with every possible method type, with special care for resources which needed an `observe` request.
 
+
+
+
+
