@@ -3,3 +3,5 @@ venv
 .vscode
 .DS_Store
 mqtt/.ipynb_checkpoints
+.ipynb_checkpoints
+test.py
