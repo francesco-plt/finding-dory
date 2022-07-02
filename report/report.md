@@ -34,7 +34,7 @@ Then we extracted manually other observation which we used to interact with Coap
 
 To retrieve COAP data we used mainly two tools: Firefox with Copper running on the course virtual machine, and [tzolov/coap-shell](https://github.com/tzolov/coap-shell). With the latter we executed a `discover` request which exposed several resources listed in the `coap/resources.txt` file relative to the repository main directory. Then we manually added `/root/BarrierReef/HiddenTreasure` to the list.
 
-Then for every resource we performed a request with every possible method type, with special care for resources which needed an `observe` request.
+Then for every resource we performed a request with every possible method type, with special care for resources which needed an `observe` request. We wrote down all intresting responses in [a text file](../coap/coap_coords_raw.txt), which we then parsed with a [python script](../coap/data-processing.py) to make it into a format more suitable for later processing. This process was mostly manual; this was an intentional process decision due to the high diversity and low numerosity of the CoAP responses.
 
 
 
