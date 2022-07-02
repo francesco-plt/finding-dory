@@ -75,7 +75,7 @@ def main():
     client.subscribe("#")
 
     start = time()
-    listen_interval = 30 * 60  # 30 minutes
+    listen_interval = 60 * 60  # 1 hour
     while True:
         print("[%s] Still running..." % dt.now().strftime("%Y-%m-%d, %H:%M:%S"))
         client.loop()
