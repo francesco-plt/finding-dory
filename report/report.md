@@ -275,7 +275,12 @@ scaler = StandardScaler()
 Y = df_kn['gt']
 X = df_kn.drop('gt',axis=1)
 X_norm = scaler.fit_transform(X)
-X_train, X_test, y_train, y_test = train_test_split(X_norm, Y, test_size=0.2, stratify=Y)
+X_train, X_test, y_train, y_test = train_test_split(
+  X_norm,
+  Y,
+  test_size=0.2,
+  stratify=Y
+)
 assert len(y_test) == 36
 ```
 
