@@ -157,12 +157,12 @@ First we created two dataframes containing the values from the MQTT and COAP obs
 ...
 df_mqtt = pd.DataFrame(
   data=data_mqtt,
-  columns=["X", "Y", "A1", "A2", "A3", "A4", "A5", "A6"]
+  columns=["X", "Y", "exp_id", "A1", "A2", "A3", "A4", "A5", "A6"]
 )
 ...
 df_coap = pd.DataFrame(
   data=data_coap,
-  columns=["X", "Y", "A1", "A2", "A3", "A4", "A5", "A6"]
+  columns=["X", "Y", "exp_id", "A1", "A2", "A3", "A4", "A5", "A6"]
 )
 ```
 
@@ -181,6 +181,10 @@ assert(df.isna().sum().sum() == 0)
 
 display(df)
 ```
+
+In this schema, the column `exp_id` identifies the experiment during which a reading was acquired. In the available fingerprints there were five distinct experiments.
+
+The set of all fingerprints counts 180 entries and can be found in `data/raw_data.csv`
 
 ### Processing data
 
