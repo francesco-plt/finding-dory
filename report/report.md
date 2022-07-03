@@ -252,36 +252,28 @@ display(df.nsmallest(10, 'Euclidean Distance', 'all'))
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ------------------ |
 | 2    | 4    | -58  | -61  | -59  | -64  | -62  | -65  | 2.828427           |
 
-### Machine learning approach: K nearest neighbours
+### Machine learning approach
 
-The ML approaches proposed here struggle to deal with the absence of data from the candidate odd positions. KNN classification approaches may only select as prediction a class that appears in the training dataset and KNN regressors cannot deal with a 2D space.
+#### KNN
 
-First we show the behaviour of a naive KNN based on even fingerprints alone. After that, we augment the dataset with the means and intepolations computed in the mathematical approach and try a KNN classification again.
+Most of our approaches are based on KNN, as seen in class. The first two are sound from a ML-theoretical perspective, but fail to produce reasonable result. The last one produces a reasonable result, but presents critical flaws from ML theory.
 
-We model the localization problem as a multiclass classification problem. We associate to each position a class and to each class al ground truth label. We build the labels with a simple bijective function `f(int, int) -> str` based on the `(x,y)` positions of each fingerprint. This creates 36 distinct classes for our 180 fingerprints.
+#### ML-theoretical: fingerprint alone
 
-```python
-def my_mapper(x):
-    return f"{x:02}"
-    
-df_kn['gt'] = df_kn['X'].map(my_mapper) + df_kn['Y'].map(my_mapper)
-df_kn.drop(["X","Y"], axis=1, inplace=True)
-```
+We model the localization problem as a multiclass classification problem. We associate to each position a class and to each class al ground truth label. We build the labels with a simple bijective function `f(int, int) -> str` based on the `(x,y)` positions of each fingerprint. This creates 36 distinct classes for our 180 fingerprints. We then split train and test set with `1./5.` ratio and stratified sampling. This allows us to have a representative dataset in both training and testing.
 
-We split the dataset 80/20 with stratified sampling. This ensures that exactly one sample of each class is present in the test set and four samples of each class are present in the training set.
+The confusion matrix shows a reasonable behaviour for such a model with better than random guessing performance. The accuracy plot shows that precision drops as the number of neighbors inreases.
 
-```python
-scaler = StandardScaler()
-Y = df_kn['gt']
-X = df_kn.drop('gt',axis=1)
-X_norm = scaler.fit_transform(X)
-X_train, X_test, y_train, y_test = train_test_split(
-  X_norm,
-  Y,
-  test_size=0.2,
-  stratify=Y
-)
-assert len(y_test) == 36
-```
+The critical flaw of this model is that it cannot identify any odd position. It's limited to the even positions present in the training set.
 
-We fix the random seed for reproducibility of our results. As seen in class, we train many KNN classifiers and select the one with best accuracy. We also plot the confusion matrix of the best classifier. For this step we used the code template given in the Webeep page of the Wireless Internet course.
+#### ML-theoretical: exp-based interpolations
+
+We model the localization model like before. We consider each experiment as the set of measurements from each anchor, that is `36=6*6*1` samples. We augment each experiment with linear and bilinear interpolations to produce `121=11*11*1` data points for each experiment, including both odd and even positions. This produces `605=11*11*5` data points from the entire dataset. We then proceed like before, with stratified sampling and reasonable train/test split, to produce representative datasets for training and testing. 
+
+The confusion matrix shows again performance better than random guessing and the accuracy tracking shows decreasing performance as more neighborgs are considered. Producing a confusion matrix for 121-class KNN classification is computationally expensive hard on our laptops
+
+#### Custom: test-free cross-exp average only
+
+Our last approach consists in taking the average of all experiments for each position and only then filling in missing (odd) values with interpolations. This produces a set of 121 data points, exactly one for each class. This makes it impossible to use any proper ML technique, as train/test split is impossible. We train a KNN classifier on this entire dataset and ask it to predict Dory's position.
+
+This always produces the same result for up to ten neighborgs
