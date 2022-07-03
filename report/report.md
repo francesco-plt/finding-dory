@@ -4,7 +4,7 @@ author:
 - Riccardo Mencucci
 - Francesco Pallotta
 date: \today
-geometry: margin=3.5cm
+geometry: margin=3cm
 abstract: >
   Brief summary of the proposed implementation of the Finding Dory project,
    including the rationale, the goals, and the fingerprinting localization process.
@@ -77,14 +77,14 @@ Lastly we needed Dory RSSI measurement to apply our fingerprinting technique. To
 ```shell
 $ connect coap://131.175.120.117
 available
-$ observe coap://131.175.120.117:5683/root/BarrierReef/Dory_observe
-OBSERVE START coap://131.175.120.117coap://131.175.120.117:5683/root/BarrierReef/Dory_observe
+$ observe coap://131.175.120.117:5683/root/BarrierReef/Dory
+OBSERVE START coap://131.175.120.117coap://131.175.120.117:5683/root/BarrierReef/Dory
 ```
 
 After some time we got the following response:
 
 ```shell
-coap://131.175.120.117:5683/root/BarrierReef/Dory_observe
+coap://131.175.120.117:5683/root/BarrierReef/Dory
 Dory just remembered her RSSI vector: [-57,-63,-58,-64,-63,-66]
 ```
 
@@ -262,22 +262,49 @@ display(df.nsmallest(10, 'Euclidean Distance', 'all'))
 
 Most of our approaches are based on KNN, as seen in class. The first two are sound from a ML-theoretical perspective, but fail to produce reasonable result. The last one produces a reasonable result, but presents critical flaws from ML theory.
 
-#### ML-theoretical: fingerprint alone
+#### ML-theoretical: Fingerprint dataset only
 
-We model the localization problem as a multiclass classification problem. We associate to each position a class and to each class al ground truth label. We build the labels with a simple bijective function `f(int, int) -> str` based on the `(x,y)` positions of each fingerprint. This creates 36 distinct classes for our 180 fingerprints. We then split train and test set with `1./5.` ratio and stratified sampling. This allows us to have a representative dataset in both training and testing.
+We model the localization problem as a multiclass classification problem. We associate to each position a class and to each class al ground truth label. We build the labels with a simple bijective function `f(int, int) -> str` based on the `(x,y)` positions of each fingerprint. This creates 36 distinct classes for our 180 fingerprints. We then split train and test set with $\frac{1}{5}$ ratio and stratified sampling. This allows us to have a representative dataset in both training and testing.
 
 The confusion matrix shows a reasonable behaviour for such a model with better than random guessing performance. The accuracy plot shows that precision drops as the number of neighbors inreases.
 
 The critical flaw of this model is that it cannot identify any odd position. It's limited to the even positions present in the training set.
 
-#### ML-theoretical: exp-based interpolations
+#### ML-theoretical: Interpolated dataset
 
-We model the localization model like before. We consider each experiment as the set of measurements from each anchor, that is `36=6*6*1` samples. We augment each experiment with linear and bilinear interpolations to produce `121=11*11*1` data points for each experiment, including both odd and even positions. This produces `605=11*11*5` data points from the entire dataset. We then proceed like before, with stratified sampling and reasonable train/test split, to produce representative datasets for training and testing. 
+We model the localization problem like before. We consider each experiment as the set of measurements from each anchor, that is $36 = 6 \cdot 6 \cdot 1$ samples. We augment each experiment with linear and bilinear interpolations to produce $121=11 \cdot 11 \cdot 1$ data points for each experiment, including both odd and even positions. This produces $605 = 11 \cdot 11 \cdot 5$ data points from the entire dataset. We then proceed like before, with stratified sampling and reasonable train/test split, to produce representative datasets for training and testing.
 
-The confusion matrix shows again performance better than random guessing and the accuracy tracking shows decreasing performance as more neighborgs are considered. Producing a confusion matrix for 121-class KNN classification is computationally expensive hard on our laptops
+The confusion matrix shows again performance better than random guessing and the accuracy tracking shows decreasing performance as more neighbors are considered. Producing a confusion matrix for 121-class KNN classification is computationally expensive on our laptops.
 
-#### Custom: test-free cross-exp average only
+#### Training only KNN
 
-Our last approach consists in taking the average of all experiments for each position and only then filling in missing (odd) values with interpolations. This produces a set of 121 data points, exactly one for each class. This makes it impossible to use any proper ML technique, as train/test split is impossible. We train a KNN classifier on this entire dataset and ask it to predict Dory's position.
+All ML-theoretical approaches failed in most of the performance metrics, plus they returned a value that is quite different from the one we got from the pure mathematical approach, which is $(2, 6)$.
 
-This always produces the same result for up to ten neighborgs
+Since the attempted KNN approaches are not giving satisfactory results mostly because of data scarcity, we attempted a different technique that resembles KNN. In particular we choose to replicate the KNN approach but instead of splitting the dataset to employ a standard machine learning technique, we choose to use the whole dataset for the testing part of the process, the dataset in question being the interpolated one from the previous approach.
+
+```python
+dory_predictions = []
+for k in range(1,20):
+  knn = KNeighborsClassifier(n_neighbors=k, weights='distance', p=2)
+  knn.fit(X_train, y_train)
+  pred = knn.predict(Dory_RSSI_np.reshape((-1,6)))
+  dory_predictions.append((k, pred))
+for i in range(1, 20):
+  print(f"k = %s: (%s,%s)" % (
+    dory_predictions[i-1][0],
+    dory_predictions[i-1][1][0][0:2],
+    dory_predictions[i-1][1][0][2:4]
+  ))
+```
+
+```shell
+>>> k = 1: (02,03), k = 2: (02,03), k = 3: (02,03), k = 4: (02,03), k = 5: (02,03), k = 6: (01,03), k = 7: (02,03), k = 8: (02,03), k = 9: (01,03), k = 10: (01,03), k = 11: (01,03), k = 12: (01,03), k = 13: (01,03), k = 14: (01,03), k = 15: (01,03), k = 16: (01,03), k = 17: (01,03), k = 18: (01,03), k = 19: (01,03), 
+```
+
+The result from this method and the one from the pure mathematical one does coincide $\forall k \in [1, 5] \cup [7, 8]$.
+
+## Conclusion
+
+After retrieving and processing data from the server we proceeded to apply two different approaches in order to estimate Dory's position, a pure mathematical one and a Machine Learning based one. The final result is derived from a process that employed some strong assumptions such as the interpolation of missing values, and the application of the conventiona KNN algorithm gave unsatisfactory results.
+
+Still, both attempt pointed in the same direction, giving us the same estimated position for Dory: $(2, 3)$, i.e. we can say with a certain degree of confidence that $(2, 3)$ is the real Dory's position.
